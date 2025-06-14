@@ -1,0 +1,1 @@
+I created this project in September 2020 using C# and Windows Forms. It uses a hard-coded cipher based on the alphabet to "encrypt" a user's message. It is not a secure form of encryption by today's standards and was created primarily as a way of testing my early coding abilities.
