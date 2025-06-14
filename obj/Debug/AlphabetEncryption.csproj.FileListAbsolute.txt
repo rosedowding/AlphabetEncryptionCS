@@ -1,0 +1,10 @@
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\bin\Debug\AlphabetEncryption.exe.config
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\bin\Debug\AlphabetEncryption.exe
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\bin\Debug\AlphabetEncryption.pdb
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\obj\Debug\AlphabetEncryption.csprojAssemblyReference.cache
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\obj\Debug\AlphabetEncryption.Form1.resources
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\obj\Debug\AlphabetEncryption.Properties.Resources.resources
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\obj\Debug\AlphabetEncryption.csproj.GenerateResource.cache
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\obj\Debug\AlphabetEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\obj\Debug\AlphabetEncryption.exe
+C:\Users\Thomas\Thomas\Programming and Game Design (Personal)\Alphabet Encryption\AlphabetEncryption\AlphabetEncryption\obj\Debug\AlphabetEncryption.pdb
